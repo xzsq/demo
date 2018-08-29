@@ -15,9 +15,9 @@
 ### 运行方法
   
 
-- 在eclipse中将项目打包成jar;
+- [在eclipse中将项目打包成jar;](./jar.md)
 
-- 通过exe4j将jar打包成exe文件;
+- [通过exe4j将jar打包成exe文件;](./jar to exe.md)
 
 - 运行Lockers-Client_v2.0_fat.exe，弹出主页面后自行选择刷卡登陆或者输入账号密码登陆。
 
