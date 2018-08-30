@@ -1,4 +1,4 @@
-#　　　　　　　**eclipse项目导出jar包**
+# eclipse项目导出jar包
 
 **1. 打开Eclipse之后，右击要打包的工程，出现一个“Build Fat Jar”，点击它。如果没有出现它，可以选择“Export”，从弹出的对话框中选择“other”-->"Fat Jar Exporter"，点击Next，选择要打包的项目，再点击Next。**
 
