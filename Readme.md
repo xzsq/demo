@@ -3,7 +3,7 @@ Lockers-client-masterV2.0
    ![](https://i.imgur.com/bvEYtvX.gif)
        
 ## 总体介绍
- **Lockers-client-masterV2.0，Lockers-client-masterV1.0的升级版，**在V1.0原有的存样、取样、弃样的功能上增加了
+ **Lockers-client-masterV2.0，是Lockers-client-masterV1.0的升级版，**在V1.0原有的存样、取样、弃样的功能上增加了
 
 - 判断是否真正存入物品
 
