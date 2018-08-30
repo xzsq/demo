@@ -3,7 +3,7 @@
    ![](https://i.imgur.com/bvEYtvX.gif)　　
        
 ## 总体介绍
- **Lockers-client-masterV2.0，Lockers-client-masterV1.0的升级版，**在V1.0原有的存样、取样、弃样的功能上增加了
+ Lockers-client-masterV2.0，是Lockers-client-masterV1.0的升级版，在V1.0原有的存样、取样、弃样的功能上增加了
 
 - 判断是否真正存入物品
 
@@ -117,15 +117,15 @@
 
 ## 现场所需要配置的项目
 
-1. 控制面板的基本操作命令　　
+1. [控制面板的基本操作命令](./rule.md)　　
 
-2. PC端配置读卡器所需文件 
+2. [PC端配置读卡器所需文件](./xml.md) 
  
-3. ds.config.xml文件中连接数据库的信息与所要连接的数据库信息相匹对  
+3. [ds.config.xml文件中连接数据库的信息与所要连接的数据库信息相匹对](./dsconfig.md)  
 
-4. system-config.properties文件中的时间限制和操作员身份
+4. [system-config.properties文件中的时间限制和操作员身份](./sysconfig.md)
 
-5. 数据库中RLGL_SYS_IPTEMP表中的ip要与机器ip相匹对
+5. 数据库中RLGL_SYS_IPTEMP表中的ip要与机器ip相匹配（./ip.md)
 
 ##燃料系统与电子样柜之间的关系
 
