@@ -1,4 +1,4 @@
-#　　　　　　　**通过exe4j将jar包打包成exe文件**
+# 通过exe4j将jar包打包成exe文件
 
 ![](https://i.imgur.com/9lJMPJN.png)
 
