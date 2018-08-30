@@ -1,4 +1,4 @@
-　　　　　　Lockers-client-masterV2.0
+# Lockers-client-masterV2.0
 
    ![](https://i.imgur.com/bvEYtvX.gif)　　
        
@@ -41,7 +41,7 @@
 　　　　　
 　　　
 
-##　代码结构  　　
+## 代码结构  　　
 
 
 ├──libs　　　　　　　　　　　　　　　　　　//项目所需要的jar包
@@ -125,9 +125,9 @@
 
 4. [system-config.properties文件中的时间限制和操作员身份](./sysconfig.md)
 
-5. 数据库中RLGL_SYS_IPTEMP表中的ip要与机器ip相匹配（./ip.md)
+5. [数据库中RLGL_SYS_IPTEMP表中的ip要与机器ip相匹配](./ip.md)
 
-##燃料系统与电子样柜之间的关系
+## 燃料系统与电子样柜之间的关系
 
 - 制样室电子样柜维护
 
